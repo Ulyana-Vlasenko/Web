@@ -8,4 +8,4 @@
 
 · Тест-ран для модуля [Cart Management](https://github.com/Ulyana-Vlasenko/Web/blob/c3ef2ffdad6cb0b5a9741c735468d32f4151f37c/Cart%20Management.pdf) и [Order Management](https://github.com/Ulyana-Vlasenko/Web/blob/c3ef2ffdad6cb0b5a9741c735468d32f4151f37c/Order%20Management.pdf)_на основании текст-кейсов в системы Qase.io
 
-· [Отчет](https://github.com/Ulyana-Vlasenko/Web/blob/050a733fc70d698ee159da57fec0c0c65b771a46/Bug%20report%20Cart%20Manager%20and%20Order%20Manager.xlsx) о найденных дефектах на основании чек-листа и тестовых кейсов для модулей "Cart Management" и "Order Management".
+· [Отчет](https://github.com/Ulyana-Vlasenko/Web/blob/7d9a22169a3311dcbeb69c249eca9dc646dd19a6/Bug%20report%20Cart%20Manager%20and%20Order%20Manager.xlsx) о найденных дефектах на основании чек-листа и тестовых кейсов для модулей "Cart Management" и "Order Management".
